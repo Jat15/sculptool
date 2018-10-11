@@ -1,0 +1,51 @@
+sculptool_add("moreblocks:iron_stone",
+	{
+		"moreblocks:iron_stone_bricks",
+		"moreblocks:iron_checker"
+	}
+)
+sculptool_add("moreblocks:coal_stone",
+	{
+		"moreblocks:coal_stone_bricks",
+		"moreblocks:coal_checker"
+	}
+)
+sculptool_add("moreblocks:stone_tile",
+	{
+		"moreblocks:split_stone_tile",
+		"moreblocks:checker_stone_tile"
+	}
+)
+sculptool_add("default:acacia_tree",
+	{
+		"moreblocks:all_faces_acacia_tree",
+	}
+)
+sculptool_add("default:aspen_tree",
+	{
+		"moreblocks:all_faces_aspen_tree",
+	}
+)
+sculptool_add("default:jungletree",
+	{
+		"moreblocks:all_faces_jungle_tree",
+	}
+)
+sculptool_add("default:pine_tree",
+	{
+		"moreblocks:all_faces_pine_tree",
+	}
+)
+sculptool_add("default:tree",
+	{
+		"moreblocks:all_faces_tree",
+	}
+)
+sculptool_add("default:wood",
+	{
+		"moreblocks:wood_tile",
+		"moreblocks:wood_tile_full",
+		"moreblocks:wood_tile_center",
+		"moreblocks:wood_tile_offset",
+	}
+)
